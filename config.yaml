@@ -1,0 +1,8 @@
+# http listen address
+listen: :8081
+
+# http read timeout in seconds
+readTimeout: 90
+
+# http write timeout in seconds
+writeTimeout: 90
